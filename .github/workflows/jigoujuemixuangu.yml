@@ -1,4 +1,4 @@
-name: Stock Picker Daily2
+name: jigoujuemixuangu
 
 on:
   # 定时触发（cron使用UTC时间）
