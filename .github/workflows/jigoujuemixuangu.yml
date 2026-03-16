@@ -1,5 +1,6 @@
 name: jigoujuemixuangu
-
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true    # 添加这一行
 on:
   # 定时触发（cron使用UTC时间）
   schedule:
